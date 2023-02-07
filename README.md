@@ -5,5 +5,5 @@ Our application gives you a synopsis of the products we offer and specialize in,
 
 https://alebarrero.github.io/Horison-Services/
 
-##image screenshot
-<img src="https://github.com/alebarrero/Module-1-HW#:~:text=Horison%20screenshot.png" alt="horison">
+
+<img src="[https://github.com/alebarrero/Module-1-HW#:~:text=Horison%20screenshot.png](https://github.com/alebarrero/Horison-Services/blob/main/Horison%20screenshot.png?raw=true)" alt="horison">
