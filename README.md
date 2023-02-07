@@ -1,16 +1,6 @@
-AS A marketing agency:
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+Horiseon Social Solution Services provides several products for SEO needs.
 
+We specialize in SEO, Online reputation management, and social media marketing.
+Our application gives you a synopsis of the products we offer and specialize in, as well as some tips for your needs.
 
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+<img src="https://github.com/alebarrero/Module-1-HW#:~:text=Horison%20screenshot.png" alt="horison">
